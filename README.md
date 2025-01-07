@@ -68,8 +68,8 @@ hi, im cheese00 🧀.
 </tbody></table>
 <h4 align="center">All of these are open source!</h4>
 <h2 id="connect-with-me">Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h2>
-<p><a href="https://www.hackerrank.com/profile/chilamque3105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hridoy.the.hazard10" height="30" width="40"></a>
-<a href="mailto:chilamque3105@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="hridoyalhazard" height="30" width="40"></a>
-<a href="https://github.com/HridoyHazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40"></a></p><p></p>
+<p><a href="https://www.hackerrank.com/profile/chilamque3105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cheese3105" height="30" width="40"></a>
+<a href="mailto:chilamque3105@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="cheese3105" height="30" width="40"></a>
+<a href="https://github.com/cheese3105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cheese3105" height="30" width="40"></a></p><p></p>
 <br>
 <hr>

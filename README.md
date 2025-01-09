@@ -14,6 +14,7 @@ hi, im cheese00 🧀.
 <h2 id="skills">Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;</h2>
 <h4> Languages </h4>
 <span> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white">
